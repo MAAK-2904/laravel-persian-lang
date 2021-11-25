@@ -5,5 +5,11 @@
             "name": "MAAK",
             "email": "mahdiakbari1683@gmail.com"
         }
-    ]
+    ],
+    
+    "autoload": {
+        "psr-4": {
+            "MAAK\\PersianLang\\" : "src/"
+        }
+    },
 }

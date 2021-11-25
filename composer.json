@@ -1,0 +1,17 @@
+{
+    "name": "maak-laravel-persian-lang",
+    "description": "Persian Languages for Laravel",
+    "keywords": [
+        "laravel",
+        "languages",
+        "lang",
+        "persian"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MAAK",
+            "email": "mahdiakbari1683@gmail.com"
+        }
+    ]
+}

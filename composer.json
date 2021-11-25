@@ -1,0 +1,21 @@
+{
+    "name": "maak/laravel-persian-lang",
+    "description": "MAAK Perisan Lang Package",
+    "authors": [
+        {
+            "name": "MAAK",
+            "email": "mahdiakbari1683@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "MAAK\\PersianLang\\" : "src/"
+        }
+    },
+
+    "require": {
+        "illuminate/support" : "~8"
+    }
+}
+

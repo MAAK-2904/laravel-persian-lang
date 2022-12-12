@@ -15,7 +15,7 @@
     },
 
     "require": {
-        "illuminate/support" : "~8"
+        "illuminate/support" : "8^"
     }
 }
 

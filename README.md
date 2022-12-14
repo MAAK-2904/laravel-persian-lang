@@ -2,13 +2,13 @@
 
 جهت استفاده از پکیج با استفاده از Composer
 <br>
-composer require maak/laravel-persian-lang
+composer require maak/contact-form
 <br>
 را وارد کنید
 
 سپس Provider را اضافه کنید
 
-MAAK\PersianLang\PackageServiceProvider::class,
+MAAK\ContactForm\ContactFormServiceProvider::class,
 
 دستور php artisan vendor:publish را بزنید
 
